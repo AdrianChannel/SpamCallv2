@@ -7,9 +7,9 @@ os.system('clear')
 os.system('figlet Spam Call')
 banner = '''
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Author   : Randiansyah
-Facebook : Rendi Saputra
-Github   : https://github.com/Rendi-ID
+Author   : Adrian
+Facebook : Adrian
+Github   : https://github.com/Adrian-Channel
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 '''
 
